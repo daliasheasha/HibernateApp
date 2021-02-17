@@ -1,5 +1,5 @@
 # HibernateApp
-A Hibernate/JPA application used in a video (coming soon!). 
+A Hibernate/JPA application used in this [video](https://youtu.be/QJddHc41xrM). 
 
 - If you want to setup a similar live template to the "jpa" template I use in the video, instructions on setting up live templates is [here](https://www.jetbrains.com/help/idea/using-live-templates.html). The "jpa" live template is configured with the following content:
 ```
